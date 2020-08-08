@@ -1,0 +1,46 @@
+.box1 {
+    width: 945px;
+    height: 370px;
+    /* background: red; */
+    background-image: url("../img/01.jpg");
+    /* おまじないとして以下のコマンドを入れる */
+    /* background-repeat: no-repeat;
+    background-position: center -291px;
+    background-size: cover; */
+background: url("../img/01.jpg") no-repeat center -291px;
+background-size: cover;
+/* margin-left: auto;
+margin-right: auto; */
+
+margin: 0 auto;
+}
+.box1 {
+    width: 945px;
+    height: 370px;
+    /* background: red; */
+    background-image: url("../img/02.jpg");
+    /* おまじないとして以下のコマンドを入れる */
+    /* background-repeat: no-repeat;
+    background-position: center -291px;
+    background-size: cover; */
+background: url("../img/02.jpg") no-repeat center -291px;
+background-size: cover;
+/* margin-left: auto;
+margin-right: auto; */
+
+margin: 0 auto;
+}
+.box1 p {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 165px;
+}
+.box2 p {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 165px;
+}
